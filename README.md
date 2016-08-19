@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/robashton/cravendb.png?branch=master)](https://travis-ci.org/robashton/cravendb)
+(no CI for this fork yet)
 
 # CravenDB
 
