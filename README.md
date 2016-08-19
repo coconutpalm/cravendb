@@ -1,4 +1,6 @@
-(no CI for this fork yet)
+# The original has been inactive for 3 years; don't know if I'll pick it up, but...
+
+- Original web site / docs: http://robashton.github.io/cravendb
 
 # CravenDB
 
